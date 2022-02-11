@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ShreyamShekhar
+- 👀 I’m interested in gaming...
+- 🌱 I’m currently learning node.js
+- 📫 You can reach me at shreyamshekhar2210@gmail.com
