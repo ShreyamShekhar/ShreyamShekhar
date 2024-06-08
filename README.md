@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @ShreyamShekhar
 - 👀 I’m interested in gaming...
-- 🌱 I’m currently learning Blender 3D animations
+- 🌱 I’m currently learning Web development
 - 📫 You can reach me at shreyamshekhar2210@gmail.com
